@@ -16,6 +16,6 @@ public class Main {
         System.out.println(divResult);
     }
     public static void loop() {
-
+        System.out.println("Testing git changes");
     }
 }
